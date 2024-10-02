@@ -1,0 +1,3 @@
+Problem Statement : Unified Wellness Ecosystem for Personalized Health Management
+
+Design and develop a web or mobile application that serves as a unified wellness platform, integrating multiple aspects of health and wellness (physical, mental, and social). This platform should use personalized data and AI-driven insights to offer tailored health recommendations, resources, and social features, aiming to improve the user's overall well-being. The challenge is to provide a seamless, data-driven experience that not only tracks traditional health metrics but also includes social and mental well-being indicators to create a holistic approach to wellness.
